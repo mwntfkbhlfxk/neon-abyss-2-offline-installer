@@ -26,6 +26,10 @@
 
 </div>
 
+<div align="center">
+<img width="460" height="215" alt="Neon Abyss 2" src="https://raw.githubusercontent.com/mwntfkbhlfxk/neon-abyss-2-offline-installer/main/game.jpg" />
+</div>
+
 ---
 
 ## 📖 About Neon Abyss 2
